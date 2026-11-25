@@ -1,0 +1,155 @@
+{
+  "meta": {
+    "source": "Berita roster MPL ID S18",
+    "license": "CC-BY-SA 3.0 (data turunan Liquipedia)",
+    "attribution": "Sebagian data roster bersumber dari Liquipedia (https://liquipedia.net/mobilelegends), lisensi CC-BY-SA 3.0.",
+    "updatedAt": "2026-11-25",
+    "notes": "Hanya tim dengan 5 starter terverifikasi. Coach/analyst bernilai null bila belum terverifikasi (mis. Team Spirit tanpa coach). EVOS, Team Liquid ID, Aurora PH, dll via sinkronisasi Liquipedia (Fase 4)."
+  },
+  "items": [
+    {
+      "id": "onic",
+      "name": "ONIC Esports",
+      "tag": "ONIC",
+      "tagline": "Fondasi stabil, juara bertahan era macro.",
+      "color": "#F5B942",
+      "roster": {
+        "EXP": "lutpi",
+        "Jungler": "kairi",
+        "Mid": "sanz",
+        "Gold": "kelra",
+        "Roam": "kiboy"
+      },
+      "head_coach_id": "cw",
+      "analyst_id": "baloyskie",
+      "region": "ID",
+      "league": "MPL ID"
+    },
+    {
+      "id": "rrq",
+      "name": "RRQ Hoshi",
+      "tag": "RRQ",
+      "tagline": "Sang Raja: jungler impor dan mid veteran Yve.",
+      "color": "#FF4D5E",
+      "roster": {
+        "EXP": "lynch",
+        "Jungler": "demonkite",
+        "Mid": "clayyy",
+        "Gold": "sutsujin",
+        "Roam": "idok"
+      },
+      "head_coach_id": "adi",
+      "analyst_id": "caleb",
+      "region": "ID",
+      "league": "MPL ID"
+    },
+    {
+      "id": "navi",
+      "name": "NAVI",
+      "tag": "NAVI",
+      "tagline": "Tim playoff S18 dengan tempo agresif.",
+      "color": "#4DD8F0",
+      "roster": {
+        "EXP": "karss",
+        "Jungler": "andoryuu",
+        "Mid": "jiizee",
+        "Gold": "zeonn",
+        "Roam": "aphro"
+      },
+      "head_coach_id": "ynot",
+      "analyst_id": "han",
+      "region": "ID",
+      "league": "MPL ID"
+    },
+    {
+      "id": "onic-ph",
+      "name": "ONIC Philippines",
+      "tag": "ONIC PH",
+      "tagline": "Impor Indonesia dan jungler K1NGKONG; semifinalis MSC 2026.",
+      "color": "#F5B942",
+      "region": "PH",
+      "league": "MPL PH",
+      "roster": {
+        "EXP": "kirk",
+        "Jungler": "kingkong",
+        "Mid": "super-frince",
+        "Gold": "savero",
+        "Roam": "super-yoshi"
+      },
+      "head_coach_id": "pheww",
+      "analyst_id": null
+    },
+    {
+      "id": "srg",
+      "name": "Selangor Red Giants",
+      "tag": "SRG",
+      "tagline": "Dinasti Malaysia: lima gelar MPL MY beruntun.",
+      "color": "#E5484D",
+      "region": "MY",
+      "league": "MPL MY",
+      "roster": {
+        "EXP": "kramm",
+        "Jungler": "sekys",
+        "Mid": "stormie",
+        "Gold": "innocent",
+        "Roam": "yums"
+      },
+      "head_coach_id": "arcadia",
+      "analyst_id": "winter"
+    },
+    {
+      "id": "dfyg",
+      "name": "DianFengYaoGuai",
+      "tag": "DFYG",
+      "tagline": "Juara MLBB China Masters S3, rotasi cepat ala Tiongkok.",
+      "color": "#FF8A3D",
+      "region": "CN",
+      "league": "CN",
+      "roster": {
+        "EXP": "fishgod",
+        "Jungler": "zaoshui",
+        "Mid": "yione",
+        "Gold": "loong",
+        "Roam": "zzzed"
+      },
+      "head_coach_id": "monkey",
+      "analyst_id": null
+    },
+    {
+      "id": "tl-academy-id",
+      "name": "Team Liquid Academy ID",
+      "tag": "TLAID",
+      "tagline": "Tim MDL ID: muda, cepat, dan haus pembuktian.",
+      "color": "#4DD8F0",
+      "region": "ID",
+      "league": "MDL ID",
+      "roster": {
+        "EXP": "valdera",
+        "Jungler": "woshipaul",
+        "Mid": "yagaqtt",
+        "Gold": "kinsevaa",
+        "Roam": "widy"
+      },
+      "head_coach_id": "barbosa",
+      "analyst_id": null
+    },
+    {
+      "id": "team-spirit",
+      "name": "Team Spirit",
+      "tag": "TS",
+      "tagline": "Juara MSC 2026: tim non-SEA pertama yang menang di panggung dunia.",
+      "color": "#A78BFA",
+      "region": "EECA",
+      "league": "MCC",
+      "roster": {
+        "EXP": "kid-bomba",
+        "Jungler": "zaur-egoist",
+        "Mid": "sunset-lover",
+        "Gold": "hiko",
+        "Roam": "sawo"
+      },
+      "head_coach_id": null,
+      "analyst_id": null
+    }
+  ]
+}

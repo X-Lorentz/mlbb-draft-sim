@@ -1,0 +1,1366 @@
+{
+  "meta": {
+    "source": "Berita roster MPL ID/PH/MY S18, MSC 2026, Liquipedia (MDL ID S14, MCT East Asia 2026), Moonton",
+    "license": "CC-BY-SA 3.0 untuk data turunan Liquipedia",
+    "attribution": "Sebagian data roster bersumber dari Liquipedia (https://liquipedia.net/mobilelegends), lisensi CC-BY-SA 3.0.",
+    "updatedAt": "2026-11-25",
+    "notes": "Tim & role pemain 'verified' dicek ke sumber Agu-Nov 2026. Rating playstyle (1-100) dan signature_heroes adalah estimasi editorial. 'region' = region liga saat ini, 'nationality' = asal bila berbeda. Alex adalah free agent (tim terkini tidak ditemukan). Roster MDL ID yang tercakup: Bigetron Academy dan Team Liquid Academy ID."
+  },
+  "items": [
+    {
+      "id": "lutpi",
+      "ign": "Lutpi",
+      "role": "EXP",
+      "teamId": "onic",
+      "team": "ONIC",
+      "region": "ID",
+      "tier": "MPL",
+      "ratings": {
+        "aggression": 82,
+        "objective_control": 78,
+        "teamfight": 84,
+        "early_game": 76,
+        "late_game": 80
+      },
+      "signature_heroes": [
+        "yu-zhong",
+        "terizla",
+        "paquito"
+      ],
+      "status": "verified",
+      "league": "MPL ID"
+    },
+    {
+      "id": "kairi",
+      "ign": "Kairi",
+      "role": "Jungler",
+      "teamId": "onic",
+      "team": "ONIC",
+      "region": "ID",
+      "tier": "MPL",
+      "ratings": {
+        "aggression": 88,
+        "objective_control": 86,
+        "teamfight": 80,
+        "early_game": 85,
+        "late_game": 76
+      },
+      "signature_heroes": [
+        "ling",
+        "fanny",
+        "suyou"
+      ],
+      "status": "verified",
+      "realName": "Kairi Ygnacio Rayosdelsol",
+      "league": "MPL ID",
+      "nationality": "PH"
+    },
+    {
+      "id": "sanz",
+      "ign": "SANZ",
+      "role": "Mid",
+      "teamId": "onic",
+      "team": "ONIC",
+      "region": "ID",
+      "tier": "MPL",
+      "ratings": {
+        "aggression": 74,
+        "objective_control": 76,
+        "teamfight": 86,
+        "early_game": 72,
+        "late_game": 85
+      },
+      "signature_heroes": [
+        "valentina",
+        "yve",
+        "pharsa"
+      ],
+      "status": "verified",
+      "league": "MPL ID"
+    },
+    {
+      "id": "kelra",
+      "ign": "Kelra",
+      "role": "Gold",
+      "teamId": "onic",
+      "team": "ONIC",
+      "region": "ID",
+      "tier": "MPL",
+      "ratings": {
+        "aggression": 77,
+        "objective_control": 70,
+        "teamfight": 82,
+        "early_game": 70,
+        "late_game": 88
+      },
+      "signature_heroes": [
+        "wanwan",
+        "beatrix",
+        "claude"
+      ],
+      "status": "verified",
+      "league": "MPL ID",
+      "nationality": "PH"
+    },
+    {
+      "id": "kiboy",
+      "ign": "Kiboy",
+      "role": "Roam",
+      "teamId": "onic",
+      "team": "ONIC",
+      "region": "ID",
+      "tier": "MPL",
+      "ratings": {
+        "aggression": 70,
+        "objective_control": 88,
+        "teamfight": 90,
+        "early_game": 74,
+        "late_game": 78
+      },
+      "signature_heroes": [
+        "khufra",
+        "atlas",
+        "tigreal"
+      ],
+      "status": "verified",
+      "league": "MPL ID"
+    },
+    {
+      "id": "lynch",
+      "ign": "Lynch",
+      "role": "EXP",
+      "teamId": "rrq",
+      "team": "RRQ Hoshi",
+      "region": "ID",
+      "tier": "MPL",
+      "ratings": {
+        "aggression": 84,
+        "objective_control": 72,
+        "teamfight": 78,
+        "early_game": 86,
+        "late_game": 70
+      },
+      "signature_heroes": [
+        "terizla",
+        "paquito",
+        "phoveus"
+      ],
+      "status": "verified",
+      "realName": "Joshua Elshad",
+      "league": "MPL ID"
+    },
+    {
+      "id": "demonkite",
+      "ign": "Demonkite",
+      "role": "Jungler",
+      "teamId": "rrq",
+      "team": "RRQ Hoshi",
+      "region": "ID",
+      "tier": "MPL",
+      "ratings": {
+        "aggression": 86,
+        "objective_control": 90,
+        "teamfight": 85,
+        "early_game": 82,
+        "late_game": 80
+      },
+      "signature_heroes": [
+        "ling",
+        "joy",
+        "suyou"
+      ],
+      "status": "verified",
+      "realName": "Jonard Cedrix Caranto",
+      "league": "MPL ID",
+      "nationality": "PH"
+    },
+    {
+      "id": "rinz",
+      "ign": "Rinz",
+      "role": "Mid",
+      "teamId": "rrq",
+      "team": "RRQ Hoshi",
+      "region": "ID",
+      "tier": "MPL",
+      "ratings": {
+        "aggression": 76,
+        "objective_control": 74,
+        "teamfight": 80,
+        "early_game": 75,
+        "late_game": 79
+      },
+      "signature_heroes": [
+        "kadita",
+        "valentina",
+        "xavier"
+      ],
+      "status": "verified",
+      "realName": "Hajirin Arafat",
+      "league": "MPL ID"
+    },
+    {
+      "id": "clayyy",
+      "ign": "Clayyy",
+      "role": "Mid",
+      "teamId": "rrq",
+      "team": "RRQ Hoshi",
+      "region": "ID",
+      "tier": "MPL",
+      "ratings": {
+        "aggression": 72,
+        "objective_control": 78,
+        "teamfight": 84,
+        "early_game": 70,
+        "late_game": 90
+      },
+      "signature_heroes": [
+        "yve",
+        "pharsa",
+        "valentina"
+      ],
+      "status": "verified",
+      "realName": "Deden Muhammad Nurhasan",
+      "league": "MPL ID"
+    },
+    {
+      "id": "sutsujin",
+      "ign": "Sutsujin",
+      "role": "Gold",
+      "teamId": "rrq",
+      "team": "RRQ Hoshi",
+      "region": "ID",
+      "tier": "MPL",
+      "ratings": {
+        "aggression": 90,
+        "objective_control": 68,
+        "teamfight": 76,
+        "early_game": 84,
+        "late_game": 72
+      },
+      "signature_heroes": [
+        "brody",
+        "beatrix",
+        "granger"
+      ],
+      "status": "verified",
+      "realName": "Arthur Christopher Sunarkho",
+      "league": "MPL ID"
+    },
+    {
+      "id": "idok",
+      "ign": "Idok",
+      "role": "Roam",
+      "teamId": "rrq",
+      "team": "RRQ Hoshi",
+      "region": "ID",
+      "tier": "MPL",
+      "ratings": {
+        "aggression": 68,
+        "objective_control": 80,
+        "teamfight": 82,
+        "early_game": 72,
+        "late_game": 76
+      },
+      "signature_heroes": [
+        "atlas",
+        "khufra",
+        "tigreal"
+      ],
+      "status": "verified",
+      "realName": "Said Ali Ridho",
+      "league": "MPL ID"
+    },
+    {
+      "id": "karss",
+      "ign": "Karss",
+      "role": "EXP",
+      "teamId": "navi",
+      "team": "NAVI",
+      "region": "ID",
+      "tier": "MPL",
+      "ratings": {
+        "aggression": 80,
+        "objective_control": 74,
+        "teamfight": 82,
+        "early_game": 78,
+        "late_game": 76
+      },
+      "signature_heroes": [
+        "yu-zhong",
+        "arlott",
+        "paquito"
+      ],
+      "status": "verified",
+      "league": "MPL ID"
+    },
+    {
+      "id": "andoryuu",
+      "ign": "Andoryuu",
+      "role": "Jungler",
+      "teamId": "navi",
+      "team": "NAVI",
+      "region": "ID",
+      "tier": "MPL",
+      "ratings": {
+        "aggression": 84,
+        "objective_control": 82,
+        "teamfight": 78,
+        "early_game": 86,
+        "late_game": 74
+      },
+      "signature_heroes": [
+        "fanny",
+        "hayabusa",
+        "ling"
+      ],
+      "status": "verified",
+      "league": "MPL ID"
+    },
+    {
+      "id": "jiizee",
+      "ign": "Jiizee",
+      "role": "Mid",
+      "teamId": "navi",
+      "team": "NAVI",
+      "region": "ID",
+      "tier": "MPL",
+      "ratings": {
+        "aggression": 75,
+        "objective_control": 72,
+        "teamfight": 80,
+        "early_game": 74,
+        "late_game": 78
+      },
+      "signature_heroes": [
+        "valentina",
+        "kadita",
+        "pharsa"
+      ],
+      "status": "verified",
+      "league": "MPL ID"
+    },
+    {
+      "id": "zeonn",
+      "ign": "Zeonn",
+      "role": "Gold",
+      "teamId": "navi",
+      "team": "NAVI",
+      "region": "ID",
+      "tier": "MPL",
+      "ratings": {
+        "aggression": 78,
+        "objective_control": 70,
+        "teamfight": 79,
+        "early_game": 72,
+        "late_game": 84
+      },
+      "signature_heroes": [
+        "claude",
+        "wanwan",
+        "beatrix"
+      ],
+      "status": "verified",
+      "league": "MPL ID"
+    },
+    {
+      "id": "aphro",
+      "ign": "Aphro",
+      "role": "Roam",
+      "teamId": "navi",
+      "team": "NAVI",
+      "region": "ID",
+      "tier": "MPL",
+      "ratings": {
+        "aggression": 66,
+        "objective_control": 84,
+        "teamfight": 86,
+        "early_game": 70,
+        "late_game": 80
+      },
+      "signature_heroes": [
+        "khufra",
+        "atlas",
+        "tigreal"
+      ],
+      "status": "verified",
+      "league": "MPL ID"
+    },
+    {
+      "id": "aran",
+      "ign": "Aran",
+      "role": "EXP",
+      "teamId": "tlid",
+      "team": "Team Liquid ID",
+      "region": "ID",
+      "tier": "MPL",
+      "ratings": {
+        "aggression": 79,
+        "objective_control": 75,
+        "teamfight": 80,
+        "early_game": 77,
+        "late_game": 78
+      },
+      "signature_heroes": [
+        "arlott",
+        "yu-zhong",
+        "phoveus"
+      ],
+      "status": "verified",
+      "league": "MPL ID"
+    },
+    {
+      "id": "kevinn",
+      "ign": "Kevinn",
+      "role": "Jungler",
+      "teamId": "tlid",
+      "team": "Team Liquid ID",
+      "region": "ID",
+      "tier": "MPL",
+      "ratings": {
+        "aggression": 85,
+        "objective_control": 83,
+        "teamfight": 82,
+        "early_game": 84,
+        "late_game": 77
+      },
+      "signature_heroes": [
+        "joy",
+        "ling",
+        "suyou"
+      ],
+      "status": "verified",
+      "league": "MPL ID"
+    },
+    {
+      "id": "drichel",
+      "ign": "Drichel",
+      "role": "Mid",
+      "teamId": "tlid",
+      "team": "Team Liquid ID",
+      "region": "ID",
+      "tier": "MPL",
+      "ratings": {
+        "aggression": 73,
+        "objective_control": 76,
+        "teamfight": 83,
+        "early_game": 71,
+        "late_game": 82
+      },
+      "signature_heroes": [
+        "pharsa",
+        "xavier",
+        "yve"
+      ],
+      "status": "verified",
+      "league": "MPL ID"
+    },
+    {
+      "id": "shogun",
+      "ign": "Shogun",
+      "role": "EXP",
+      "teamId": "btr",
+      "team": "Bigetron by Vitality",
+      "region": "ID",
+      "tier": "MPL",
+      "ratings": {
+        "aggression": 83,
+        "objective_control": 80,
+        "teamfight": 81,
+        "early_game": 80,
+        "late_game": 79
+      },
+      "signature_heroes": [
+        "terizla",
+        "yu-zhong",
+        "arlott"
+      ],
+      "status": "verified",
+      "league": "MPL ID"
+    },
+    {
+      "id": "nnael",
+      "ign": "Nnael",
+      "role": "Jungler",
+      "teamId": "btr",
+      "team": "Bigetron by Vitality",
+      "region": "ID",
+      "tier": "MPL",
+      "ratings": {
+        "aggression": 82,
+        "objective_control": 88,
+        "teamfight": 80,
+        "early_game": 81,
+        "late_game": 78
+      },
+      "signature_heroes": [
+        "suyou",
+        "ling",
+        "hayabusa"
+      ],
+      "status": "verified",
+      "league": "MPL ID"
+    },
+    {
+      "id": "savero",
+      "ign": "Savero",
+      "role": "Gold",
+      "teamId": "onic-ph",
+      "team": "ONIC PH",
+      "region": "PH",
+      "tier": "MPL",
+      "ratings": {
+        "aggression": 79,
+        "objective_control": 72,
+        "teamfight": 78,
+        "early_game": 76,
+        "late_game": 86
+      },
+      "signature_heroes": [
+        "beatrix",
+        "claude",
+        "granger"
+      ],
+      "status": "verified",
+      "realName": "Clayton Adrielo Kuswanto",
+      "league": "MPL PH",
+      "nationality": "ID"
+    },
+    {
+      "id": "kingkong",
+      "ign": "Kingkong",
+      "role": "Jungler",
+      "teamId": "onic-ph",
+      "team": "ONIC PH",
+      "region": "PH",
+      "tier": "MPL",
+      "ratings": {
+        "aggression": 86,
+        "objective_control": 84,
+        "teamfight": 80,
+        "early_game": 84,
+        "late_game": 76
+      },
+      "signature_heroes": [
+        "ling",
+        "fanny",
+        "joy"
+      ],
+      "status": "verified",
+      "league": "MPL PH"
+    },
+    {
+      "id": "alex",
+      "ign": "Alex",
+      "role": "Roam",
+      "teamId": "free-agent",
+      "team": "Free agent",
+      "region": "INTL",
+      "tier": "PRO",
+      "ratings": {
+        "aggression": 70,
+        "objective_control": 82,
+        "teamfight": 84,
+        "early_game": 72,
+        "late_game": 78
+      },
+      "signature_heroes": [
+        "tigreal",
+        "atlas",
+        "khufra"
+      ],
+      "status": "unverified",
+      "league": "FA"
+    },
+    {
+      "id": "sanford",
+      "ign": "Sanford",
+      "role": "EXP",
+      "teamId": "tlph",
+      "team": "Team Liquid PH",
+      "region": "PH",
+      "league": "MPL PH",
+      "tier": "MPL",
+      "ratings": {
+        "aggression": 82,
+        "objective_control": 80,
+        "teamfight": 86,
+        "early_game": 78,
+        "late_game": 82
+      },
+      "signature_heroes": [
+        "yu-zhong",
+        "terizla",
+        "paquito"
+      ],
+      "status": "verified"
+    },
+    {
+      "id": "karltzy",
+      "ign": "KarlTzy",
+      "role": "Jungler",
+      "teamId": "tlph",
+      "team": "Team Liquid PH",
+      "region": "PH",
+      "league": "MPL PH",
+      "tier": "MPL",
+      "ratings": {
+        "aggression": 90,
+        "objective_control": 92,
+        "teamfight": 88,
+        "early_game": 88,
+        "late_game": 82
+      },
+      "signature_heroes": [
+        "ling",
+        "fanny",
+        "suyou"
+      ],
+      "status": "verified",
+      "realName": "Karl Gabriel Nepomuceno"
+    },
+    {
+      "id": "sanji",
+      "ign": "Sanji",
+      "role": "Mid",
+      "teamId": "tlph",
+      "team": "Team Liquid PH",
+      "region": "PH",
+      "league": "MPL PH",
+      "tier": "MPL",
+      "ratings": {
+        "aggression": 78,
+        "objective_control": 80,
+        "teamfight": 86,
+        "early_game": 76,
+        "late_game": 88
+      },
+      "signature_heroes": [
+        "valentina",
+        "pharsa",
+        "yve"
+      ],
+      "status": "verified"
+    },
+    {
+      "id": "teddy",
+      "ign": "Teddy",
+      "role": "Gold",
+      "teamId": "tlph",
+      "team": "Team Liquid PH",
+      "region": "PH",
+      "league": "MPL PH",
+      "tier": "MPL",
+      "ratings": {
+        "aggression": 80,
+        "objective_control": 76,
+        "teamfight": 84,
+        "early_game": 78,
+        "late_game": 90
+      },
+      "signature_heroes": [
+        "beatrix",
+        "wanwan",
+        "claude"
+      ],
+      "status": "verified"
+    },
+    {
+      "id": "jaypee",
+      "ign": "Jaypee",
+      "role": "Roam",
+      "teamId": "tlph",
+      "team": "Team Liquid PH",
+      "region": "PH",
+      "league": "MPL PH",
+      "tier": "MPL",
+      "ratings": {
+        "aggression": 76,
+        "objective_control": 90,
+        "teamfight": 92,
+        "early_game": 80,
+        "late_game": 84
+      },
+      "signature_heroes": [
+        "khufra",
+        "atlas",
+        "tigreal"
+      ],
+      "status": "verified",
+      "realName": "Jay pee Dela Cruz"
+    },
+    {
+      "id": "kirk",
+      "ign": "Kirk",
+      "role": "EXP",
+      "teamId": "onic-ph",
+      "team": "ONIC PH",
+      "region": "PH",
+      "league": "MPL PH",
+      "tier": "MPL",
+      "ratings": {
+        "aggression": 80,
+        "objective_control": 74,
+        "teamfight": 80,
+        "early_game": 78,
+        "late_game": 76
+      },
+      "signature_heroes": [
+        "terizla",
+        "paquito",
+        "arlott"
+      ],
+      "status": "verified"
+    },
+    {
+      "id": "super-frince",
+      "ign": "Super Frince",
+      "role": "Mid",
+      "teamId": "onic-ph",
+      "team": "ONIC PH",
+      "region": "PH",
+      "league": "MPL PH",
+      "tier": "MPL",
+      "ratings": {
+        "aggression": 77,
+        "objective_control": 76,
+        "teamfight": 82,
+        "early_game": 74,
+        "late_game": 82
+      },
+      "signature_heroes": [
+        "valentina",
+        "kadita",
+        "pharsa"
+      ],
+      "status": "verified"
+    },
+    {
+      "id": "super-yoshi",
+      "ign": "Super Yoshi",
+      "role": "Roam",
+      "teamId": "onic-ph",
+      "team": "ONIC PH",
+      "region": "PH",
+      "league": "MPL PH",
+      "tier": "MPL",
+      "ratings": {
+        "aggression": 72,
+        "objective_control": 84,
+        "teamfight": 86,
+        "early_game": 74,
+        "late_game": 80
+      },
+      "signature_heroes": [
+        "khufra",
+        "atlas",
+        "mathilda"
+      ],
+      "status": "verified"
+    },
+    {
+      "id": "flap",
+      "ign": "Flap",
+      "role": "EXP",
+      "teamId": "falcons-ph",
+      "team": "Team Falcons PH",
+      "region": "PH",
+      "league": "MPL PH",
+      "tier": "MPL",
+      "ratings": {
+        "aggression": 85,
+        "objective_control": 82,
+        "teamfight": 88,
+        "early_game": 82,
+        "late_game": 80
+      },
+      "signature_heroes": [
+        "yu-zhong",
+        "terizla",
+        "phoveus"
+      ],
+      "status": "verified"
+    },
+    {
+      "id": "owgwen",
+      "ign": "Owgwen",
+      "role": "Roam",
+      "teamId": "falcons-ph",
+      "team": "Team Falcons PH",
+      "region": "PH",
+      "league": "MPL PH",
+      "tier": "MPL",
+      "ratings": {
+        "aggression": 74,
+        "objective_control": 90,
+        "teamfight": 90,
+        "early_game": 76,
+        "late_game": 84
+      },
+      "signature_heroes": [
+        "khufra",
+        "atlas",
+        "tigreal"
+      ],
+      "status": "verified"
+    },
+    {
+      "id": "kramm",
+      "ign": "Kramm",
+      "role": "EXP",
+      "teamId": "srg",
+      "team": "Selangor Red Giants",
+      "region": "MY",
+      "league": "MPL MY",
+      "tier": "MPL",
+      "ratings": {
+        "aggression": 80,
+        "objective_control": 82,
+        "teamfight": 84,
+        "early_game": 78,
+        "late_game": 80
+      },
+      "signature_heroes": [
+        "yu-zhong",
+        "arlott",
+        "paquito"
+      ],
+      "status": "verified"
+    },
+    {
+      "id": "sekys",
+      "ign": "Sekys",
+      "role": "Jungler",
+      "teamId": "srg",
+      "team": "Selangor Red Giants",
+      "region": "MY",
+      "league": "MPL MY",
+      "tier": "MPL",
+      "ratings": {
+        "aggression": 84,
+        "objective_control": 88,
+        "teamfight": 86,
+        "early_game": 82,
+        "late_game": 80
+      },
+      "signature_heroes": [
+        "ling",
+        "suyou",
+        "joy"
+      ],
+      "status": "verified"
+    },
+    {
+      "id": "stormie",
+      "ign": "Stormie",
+      "role": "Mid",
+      "teamId": "srg",
+      "team": "Selangor Red Giants",
+      "region": "MY",
+      "league": "MPL MY",
+      "tier": "MPL",
+      "ratings": {
+        "aggression": 76,
+        "objective_control": 80,
+        "teamfight": 86,
+        "early_game": 74,
+        "late_game": 86
+      },
+      "signature_heroes": [
+        "valentina",
+        "pharsa",
+        "xavier"
+      ],
+      "status": "verified"
+    },
+    {
+      "id": "innocent",
+      "ign": "Innocent",
+      "role": "Gold",
+      "teamId": "srg",
+      "team": "Selangor Red Giants",
+      "region": "MY",
+      "league": "MPL MY",
+      "tier": "MPL",
+      "ratings": {
+        "aggression": 78,
+        "objective_control": 76,
+        "teamfight": 84,
+        "early_game": 76,
+        "late_game": 88
+      },
+      "signature_heroes": [
+        "wanwan",
+        "claude",
+        "beatrix"
+      ],
+      "status": "verified"
+    },
+    {
+      "id": "yums",
+      "ign": "Yums",
+      "role": "Roam",
+      "teamId": "srg",
+      "team": "Selangor Red Giants",
+      "region": "MY",
+      "league": "MPL MY",
+      "tier": "MPL",
+      "ratings": {
+        "aggression": 70,
+        "objective_control": 90,
+        "teamfight": 90,
+        "early_game": 76,
+        "late_game": 82
+      },
+      "signature_heroes": [
+        "khufra",
+        "atlas",
+        "tigreal"
+      ],
+      "status": "verified"
+    },
+    {
+      "id": "fishgod",
+      "ign": "FishGod",
+      "role": "EXP",
+      "teamId": "dfyg",
+      "team": "DianFengYaoGuai",
+      "region": "CN",
+      "league": "CN",
+      "tier": "PRO",
+      "ratings": {
+        "aggression": 82,
+        "objective_control": 76,
+        "teamfight": 80,
+        "early_game": 80,
+        "late_game": 76
+      },
+      "signature_heroes": [
+        "terizla",
+        "paquito",
+        "yu-zhong"
+      ],
+      "status": "verified"
+    },
+    {
+      "id": "zaoshui",
+      "ign": "zaoshui",
+      "role": "Jungler",
+      "teamId": "dfyg",
+      "team": "DianFengYaoGuai",
+      "region": "CN",
+      "league": "CN",
+      "tier": "PRO",
+      "ratings": {
+        "aggression": 86,
+        "objective_control": 82,
+        "teamfight": 80,
+        "early_game": 86,
+        "late_game": 74
+      },
+      "signature_heroes": [
+        "fanny",
+        "ling",
+        "hayabusa"
+      ],
+      "status": "verified"
+    },
+    {
+      "id": "yione",
+      "ign": "Yione",
+      "role": "Mid",
+      "teamId": "dfyg",
+      "team": "DianFengYaoGuai",
+      "region": "CN",
+      "league": "CN",
+      "tier": "PRO",
+      "ratings": {
+        "aggression": 76,
+        "objective_control": 74,
+        "teamfight": 82,
+        "early_game": 74,
+        "late_game": 80
+      },
+      "signature_heroes": [
+        "valentina",
+        "kadita",
+        "pharsa"
+      ],
+      "status": "verified"
+    },
+    {
+      "id": "loong",
+      "ign": "Loong",
+      "role": "Gold",
+      "teamId": "dfyg",
+      "team": "DianFengYaoGuai",
+      "region": "CN",
+      "league": "CN",
+      "tier": "PRO",
+      "ratings": {
+        "aggression": 79,
+        "objective_control": 72,
+        "teamfight": 80,
+        "early_game": 76,
+        "late_game": 82
+      },
+      "signature_heroes": [
+        "claude",
+        "beatrix",
+        "brody"
+      ],
+      "status": "verified"
+    },
+    {
+      "id": "zzzed",
+      "ign": "zzzed",
+      "role": "Roam",
+      "teamId": "dfyg",
+      "team": "DianFengYaoGuai",
+      "region": "CN",
+      "league": "CN",
+      "tier": "PRO",
+      "ratings": {
+        "aggression": 70,
+        "objective_control": 82,
+        "teamfight": 84,
+        "early_game": 72,
+        "late_game": 78
+      },
+      "signature_heroes": [
+        "khufra",
+        "atlas",
+        "mathilda"
+      ],
+      "status": "verified"
+    },
+    {
+      "id": "alliandzo",
+      "ign": "Alliandzo",
+      "role": "EXP",
+      "teamId": "btr-academy",
+      "team": "Bigetron Academy",
+      "region": "ID",
+      "league": "MDL ID",
+      "tier": "MDL",
+      "ratings": {
+        "aggression": 74,
+        "objective_control": 70,
+        "teamfight": 72,
+        "early_game": 72,
+        "late_game": 68
+      },
+      "signature_heroes": [
+        "terizla",
+        "paquito",
+        "arlott"
+      ],
+      "status": "verified",
+      "realName": "Wilbert Biondi"
+    },
+    {
+      "id": "sanera",
+      "ign": "Sanera",
+      "role": "Jungler",
+      "teamId": "btr-academy",
+      "team": "Bigetron Academy",
+      "region": "ID",
+      "league": "MDL ID",
+      "tier": "MDL",
+      "ratings": {
+        "aggression": 84,
+        "objective_control": 78,
+        "teamfight": 74,
+        "early_game": 84,
+        "late_game": 70
+      },
+      "signature_heroes": [
+        "fanny",
+        "ling",
+        "suyou"
+      ],
+      "status": "verified",
+      "realName": "Ade Sutan Ramadhon"
+    },
+    {
+      "id": "ebioway",
+      "ign": "Ebioway",
+      "role": "Mid",
+      "teamId": "btr-academy",
+      "team": "Bigetron Academy",
+      "region": "ID",
+      "league": "MDL ID",
+      "tier": "MDL",
+      "ratings": {
+        "aggression": 70,
+        "objective_control": 72,
+        "teamfight": 76,
+        "early_game": 68,
+        "late_game": 76
+      },
+      "signature_heroes": [
+        "valentina",
+        "kadita",
+        "pharsa"
+      ],
+      "status": "verified"
+    },
+    {
+      "id": "andy",
+      "ign": "Andy",
+      "role": "Roam",
+      "teamId": "btr-academy",
+      "team": "Bigetron Academy",
+      "region": "ID",
+      "league": "MDL ID",
+      "tier": "MDL",
+      "ratings": {
+        "aggression": 62,
+        "objective_control": 76,
+        "teamfight": 78,
+        "early_game": 66,
+        "late_game": 70
+      },
+      "signature_heroes": [
+        "khufra",
+        "atlas",
+        "tigreal"
+      ],
+      "status": "verified"
+    },
+    {
+      "id": "valdera",
+      "ign": "Valdera",
+      "role": "EXP",
+      "teamId": "tl-academy-id",
+      "team": "Team Liquid Academy ID",
+      "region": "ID",
+      "league": "MDL ID",
+      "tier": "MDL",
+      "ratings": {
+        "aggression": 72,
+        "objective_control": 68,
+        "teamfight": 72,
+        "early_game": 70,
+        "late_game": 66
+      },
+      "signature_heroes": [
+        "yu-zhong",
+        "phoveus",
+        "arlott"
+      ],
+      "status": "verified"
+    },
+    {
+      "id": "woshipaul",
+      "ign": "Woshipaul",
+      "role": "Jungler",
+      "teamId": "tl-academy-id",
+      "team": "Team Liquid Academy ID",
+      "region": "ID",
+      "league": "MDL ID",
+      "tier": "MDL",
+      "ratings": {
+        "aggression": 76,
+        "objective_control": 72,
+        "teamfight": 70,
+        "early_game": 76,
+        "late_game": 66
+      },
+      "signature_heroes": [
+        "joy",
+        "ling",
+        "suyou"
+      ],
+      "status": "verified"
+    },
+    {
+      "id": "yagaqtt",
+      "ign": "Yagaqtt",
+      "role": "Mid",
+      "teamId": "tl-academy-id",
+      "team": "Team Liquid Academy ID",
+      "region": "ID",
+      "league": "MDL ID",
+      "tier": "MDL",
+      "ratings": {
+        "aggression": 68,
+        "objective_control": 70,
+        "teamfight": 72,
+        "early_game": 66,
+        "late_game": 72
+      },
+      "signature_heroes": [
+        "pharsa",
+        "xavier",
+        "valentina"
+      ],
+      "status": "verified"
+    },
+    {
+      "id": "kinsevaa",
+      "ign": "Kinsevaa",
+      "role": "Gold",
+      "teamId": "tl-academy-id",
+      "team": "Team Liquid Academy ID",
+      "region": "ID",
+      "league": "MDL ID",
+      "tier": "MDL",
+      "ratings": {
+        "aggression": 70,
+        "objective_control": 66,
+        "teamfight": 70,
+        "early_game": 68,
+        "late_game": 76
+      },
+      "signature_heroes": [
+        "beatrix",
+        "claude",
+        "granger"
+      ],
+      "status": "verified"
+    },
+    {
+      "id": "widy",
+      "ign": "Widy",
+      "role": "Roam",
+      "teamId": "tl-academy-id",
+      "team": "Team Liquid Academy ID",
+      "region": "ID",
+      "league": "MDL ID",
+      "tier": "MDL",
+      "ratings": {
+        "aggression": 62,
+        "objective_control": 72,
+        "teamfight": 76,
+        "early_game": 64,
+        "late_game": 70
+      },
+      "signature_heroes": [
+        "khufra",
+        "atlas",
+        "tigreal"
+      ],
+      "status": "verified"
+    },
+    {
+      "id": "kid-bomba",
+      "ign": "Kid Bomba",
+      "role": "EXP",
+      "teamId": "team-spirit",
+      "team": "Team Spirit",
+      "region": "EECA",
+      "league": "MCC",
+      "tier": "PRO",
+      "ratings": {
+        "aggression": 88,
+        "objective_control": 84,
+        "teamfight": 90,
+        "early_game": 84,
+        "late_game": 84
+      },
+      "signature_heroes": [
+        "terizla",
+        "yu-zhong",
+        "phoveus"
+      ],
+      "status": "verified",
+      "realName": "Mathaios Chatzilakos"
+    },
+    {
+      "id": "zaur-egoist",
+      "ign": "zaur egoist",
+      "role": "Jungler",
+      "teamId": "team-spirit",
+      "team": "Team Spirit",
+      "region": "EECA",
+      "league": "MCC",
+      "tier": "PRO",
+      "ratings": {
+        "aggression": 90,
+        "objective_control": 84,
+        "teamfight": 82,
+        "early_game": 88,
+        "late_game": 76
+      },
+      "signature_heroes": [
+        "fanny",
+        "ling",
+        "hayabusa"
+      ],
+      "status": "verified",
+      "realName": "Zaur Magomadov"
+    },
+    {
+      "id": "sunset-lover",
+      "ign": "Sunset Lover",
+      "role": "Mid",
+      "teamId": "team-spirit",
+      "team": "Team Spirit",
+      "region": "EECA",
+      "league": "MCC",
+      "tier": "PRO",
+      "ratings": {
+        "aggression": 82,
+        "objective_control": 84,
+        "teamfight": 90,
+        "early_game": 78,
+        "late_game": 88
+      },
+      "signature_heroes": [
+        "valentina",
+        "yve",
+        "kadita"
+      ],
+      "status": "verified",
+      "realName": "Kemiran Kochkarov"
+    },
+    {
+      "id": "hiko",
+      "ign": "Hiko",
+      "role": "Gold",
+      "teamId": "team-spirit",
+      "team": "Team Spirit",
+      "region": "EECA",
+      "league": "MCC",
+      "tier": "PRO",
+      "ratings": {
+        "aggression": 82,
+        "objective_control": 78,
+        "teamfight": 86,
+        "early_game": 80,
+        "late_game": 90
+      },
+      "signature_heroes": [
+        "beatrix",
+        "wanwan",
+        "claude"
+      ],
+      "status": "verified",
+      "realName": "Anton Pak"
+    },
+    {
+      "id": "sawo",
+      "ign": "SAWO",
+      "role": "Roam",
+      "teamId": "team-spirit",
+      "team": "Team Spirit",
+      "region": "EECA",
+      "league": "MCC",
+      "tier": "PRO",
+      "ratings": {
+        "aggression": 74,
+        "objective_control": 88,
+        "teamfight": 90,
+        "early_game": 78,
+        "late_game": 82
+      },
+      "signature_heroes": [
+        "khufra",
+        "atlas",
+        "tigreal"
+      ],
+      "status": "verified",
+      "realName": "Stanislav Reshniak"
+    }
+  ]
+}

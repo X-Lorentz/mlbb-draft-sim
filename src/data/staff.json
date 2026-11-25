@@ -1,0 +1,267 @@
+{
+  "meta": {
+    "source": "Berita roster MPL ID S18",
+    "license": "CC-BY-SA 3.0 (data turunan Liquipedia)",
+    "attribution": "Sebagian data roster bersumber dari Liquipedia (https://liquipedia.net/mobilelegends), lisensi CC-BY-SA 3.0.",
+    "updatedAt": "2026-11-25",
+    "notes": "Buff dan radar adalah desain gameplay, bukan data resmi. Head coach ONIC PH, SRG, DFYG, dan Team Liquid Academy ID dicek ke sumber 2026."
+  },
+  "head_coaches": [
+    {
+      "id": "cw",
+      "name": "CW",
+      "teamId": "onic",
+      "team": "ONIC",
+      "title": "Head Coach",
+      "philosophy": "Macro disiplin: rotasi objektif rapi, menang lewat kontrol peta.",
+      "buffs": [
+        {
+          "stat": "objective_control",
+          "bonus": 6
+        },
+        {
+          "stat": "late_game",
+          "bonus": 4
+        }
+      ],
+      "status": "verified",
+      "region": "ID",
+      "league": "MPL ID"
+    },
+    {
+      "id": "adi",
+      "name": "Adi (Acil)",
+      "realName": "Adi Asyauri",
+      "teamId": "rrq",
+      "team": "RRQ Hoshi",
+      "title": "Head Coach",
+      "philosophy": "Teamfight terstruktur dan kontrol objektif; juara MPL ID S9, S11-S13, S15, S16.",
+      "buffs": [
+        {
+          "stat": "objective_control",
+          "bonus": 5
+        },
+        {
+          "stat": "teamfight",
+          "bonus": 4
+        }
+      ],
+      "status": "verified",
+      "region": "ID",
+      "league": "MPL ID"
+    },
+    {
+      "id": "ynot",
+      "name": "Ynot",
+      "teamId": "navi",
+      "team": "NAVI",
+      "title": "Head Coach",
+      "philosophy": "Tempo tinggi: tekan lawan sejak menit awal, jaga inisiatif.",
+      "buffs": [
+        {
+          "stat": "early_game",
+          "bonus": 5
+        },
+        {
+          "stat": "aggression",
+          "bonus": 4
+        }
+      ],
+      "status": "verified",
+      "region": "ID",
+      "league": "MPL ID"
+    },
+    {
+      "id": "honjaw",
+      "name": "Honjaw",
+      "teamId": "unknown",
+      "team": "Tim belum terverifikasi",
+      "title": "Head Coach",
+      "philosophy": "Skala ke late game: bertahan di awal, menang lewat komposisi.",
+      "buffs": [
+        {
+          "stat": "late_game",
+          "bonus": 6
+        },
+        {
+          "stat": "teamfight",
+          "bonus": 3
+        }
+      ],
+      "status": "unverified",
+      "region": "ID",
+      "league": "MPL ID"
+    },
+    {
+      "id": "pheww",
+      "name": "Pheww",
+      "teamId": "onic-ph",
+      "team": "ONIC PH",
+      "region": "PH",
+      "league": "MPL PH",
+      "title": "Head Coach",
+      "philosophy": "Mantan juara dunia sebagai pemain; kini membangun tempo agresif di ONIC PH.",
+      "buffs": [
+        {
+          "stat": "aggression",
+          "bonus": 5
+        },
+        {
+          "stat": "early_game",
+          "bonus": 4
+        }
+      ],
+      "status": "verified"
+    },
+    {
+      "id": "arcadia",
+      "name": "Arcadia",
+      "teamId": "srg",
+      "team": "Selangor Red Giants",
+      "region": "MY",
+      "league": "MPL MY",
+      "title": "Head Coach",
+      "philosophy": "Dinasti lima gelar beruntun: macro ketat dan deathball objektif.",
+      "buffs": [
+        {
+          "stat": "objective_control",
+          "bonus": 6
+        },
+        {
+          "stat": "teamfight",
+          "bonus": 4
+        }
+      ],
+      "status": "verified"
+    },
+    {
+      "id": "monkey",
+      "name": "Monkey",
+      "teamId": "dfyg",
+      "team": "DianFengYaoGuai",
+      "region": "CN",
+      "league": "CN",
+      "title": "Head Coach",
+      "philosophy": "Pelatih juara MLBB China Masters S3: rotasi cepat dan teamfight terorganisir.",
+      "buffs": [
+        {
+          "stat": "teamfight",
+          "bonus": 5
+        },
+        {
+          "stat": "late_game",
+          "bonus": 3
+        }
+      ],
+      "status": "verified"
+    },
+    {
+      "id": "barbosa",
+      "name": "Barbosa",
+      "teamId": "tl-academy-id",
+      "team": "Team Liquid Academy ID",
+      "region": "ID",
+      "league": "MDL ID",
+      "title": "Head Coach",
+      "philosophy": "Pembinaan akademi: disiplin dasar early game dan kontrol objektif.",
+      "buffs": [
+        {
+          "stat": "early_game",
+          "bonus": 3
+        },
+        {
+          "stat": "objective_control",
+          "bonus": 3
+        }
+      ],
+      "status": "verified"
+    }
+  ],
+  "analysts": [
+    {
+      "id": "han",
+      "name": "Han",
+      "teamId": "navi",
+      "team": "NAVI",
+      "title": "Analyst",
+      "specialty": "Pembaca pola pick lawan: menebak pick fase 1 dari kebiasaan ban.",
+      "radar": {
+        "pick_prediction_accuracy": 78,
+        "counter_suggestions": 2,
+        "signature_alert": true,
+        "ban_priority_hints": 2
+      },
+      "status": "verified",
+      "region": "ID",
+      "league": "MPL ID"
+    },
+    {
+      "id": "baloyskie",
+      "name": "Baloyskie",
+      "teamId": "onic",
+      "team": "ONIC",
+      "title": "Asisten Pelatih (berperan analis)",
+      "specialty": "Spesialis counter-draft: saran hero penangkal untuk tiap pick lawan.",
+      "radar": {
+        "pick_prediction_accuracy": 70,
+        "counter_suggestions": 3,
+        "signature_alert": true,
+        "ban_priority_hints": 1
+      },
+      "status": "verified",
+      "region": "ID",
+      "league": "MPL ID"
+    },
+    {
+      "id": "caleb",
+      "name": "Caleb",
+      "teamId": "rrq",
+      "team": "RRQ Hoshi",
+      "title": "Assistant Coach (berperan analis)",
+      "specialty": "Peringatan signature hero dan prioritas ban berdasarkan pool pemain lawan.",
+      "radar": {
+        "pick_prediction_accuracy": 66,
+        "counter_suggestions": 2,
+        "signature_alert": true,
+        "ban_priority_hints": 3
+      },
+      "status": "verified",
+      "region": "ID",
+      "league": "MPL ID"
+    },
+    {
+      "id": "facehugger",
+      "name": "Facehugger",
+      "teamId": "unknown",
+      "team": "Tim belum terverifikasi",
+      "title": "Analyst",
+      "specialty": "Radar serba bisa dengan akurasi prediksi tertinggi, tapi saran counter terbatas.",
+      "radar": {
+        "pick_prediction_accuracy": 85,
+        "counter_suggestions": 1,
+        "signature_alert": false,
+        "ban_priority_hints": 2
+      },
+      "status": "unverified",
+      "region": "ID",
+      "league": "MPL ID"
+    },
+    {
+      "id": "winter",
+      "name": "Winter",
+      "teamId": "srg",
+      "team": "Selangor Red Giants",
+      "region": "MY",
+      "league": "MPL MY",
+      "title": "Analyst",
+      "specialty": "Pembaca komposisi deathball: memetakan pool hero lawan dan prioritas ban.",
+      "radar": {
+        "pick_prediction_accuracy": 72,
+        "counter_suggestions": 2,
+        "signature_alert": true,
+        "ban_priority_hints": 2
+      },
+      "status": "verified"
+    }
+  ]
+}

@@ -1,0 +1,460 @@
+{
+  "meta": {
+    "source": "Penilaian editorial (meta kira-kira patch MLBB akhir 2026)",
+    "license": "Data buatan sendiri; sesuaikan tiap patch.",
+    "attribution": "Nama hero adalah merek dagang Moonton.",
+    "updatedAt": "2026-11-25",
+    "notes": "Tier, power spike, dan counter adalah estimasi desain, bukan data resmi."
+  },
+  "items": [
+    {
+      "id": "paquito",
+      "name": "Paquito",
+      "role": "EXP",
+      "tier": "A",
+      "power_spike": "mid",
+      "strong_against": [
+        "yve",
+        "pharsa",
+        "xavier",
+        "kadita"
+      ],
+      "countered_by": [
+        "yu-zhong",
+        "terizla"
+      ]
+    },
+    {
+      "id": "yu-zhong",
+      "name": "Yu Zhong",
+      "role": "EXP",
+      "tier": "S",
+      "power_spike": "late",
+      "strong_against": [
+        "paquito",
+        "fanny",
+        "hayabusa"
+      ],
+      "countered_by": [
+        "claude",
+        "wanwan"
+      ]
+    },
+    {
+      "id": "arlott",
+      "name": "Arlott",
+      "role": "EXP",
+      "tier": "A",
+      "power_spike": "mid",
+      "strong_against": [
+        "pharsa",
+        "brody",
+        "granger"
+      ],
+      "countered_by": [
+        "terizla"
+      ]
+    },
+    {
+      "id": "terizla",
+      "name": "Terizla",
+      "role": "EXP",
+      "tier": "S",
+      "power_spike": "early",
+      "strong_against": [
+        "paquito",
+        "arlott",
+        "fanny",
+        "phoveus"
+      ],
+      "countered_by": [
+        "yve"
+      ]
+    },
+    {
+      "id": "phoveus",
+      "name": "Phoveus",
+      "role": "EXP",
+      "tier": "A",
+      "power_spike": "early",
+      "strong_against": [
+        "pharsa",
+        "kadita",
+        "fanny",
+        "granger"
+      ],
+      "countered_by": [
+        "terizla"
+      ]
+    },
+    {
+      "id": "fanny",
+      "name": "Fanny",
+      "role": "Jungler",
+      "tier": "A",
+      "power_spike": "early",
+      "strong_against": [
+        "yve",
+        "xavier",
+        "pharsa",
+        "claude"
+      ],
+      "countered_by": [
+        "yu-zhong",
+        "terizla",
+        "phoveus",
+        "suyou",
+        "kadita",
+        "khufra",
+        "atlas",
+        "mathilda"
+      ]
+    },
+    {
+      "id": "ling",
+      "name": "Ling",
+      "role": "Jungler",
+      "tier": "S",
+      "power_spike": "mid",
+      "strong_against": [
+        "beatrix",
+        "brody",
+        "claude"
+      ],
+      "countered_by": [
+        "suyou",
+        "kadita",
+        "valentina",
+        "khufra",
+        "atlas"
+      ]
+    },
+    {
+      "id": "joy",
+      "name": "Joy",
+      "role": "Jungler",
+      "tier": "A",
+      "power_spike": "early",
+      "strong_against": [
+        "wanwan",
+        "brody",
+        "granger",
+        "pharsa"
+      ],
+      "countered_by": [
+        "suyou",
+        "kadita",
+        "khufra",
+        "atlas"
+      ]
+    },
+    {
+      "id": "hayabusa",
+      "name": "Hayabusa",
+      "role": "Jungler",
+      "tier": "B",
+      "power_spike": "mid",
+      "strong_against": [
+        "yve",
+        "xavier",
+        "granger",
+        "pharsa"
+      ],
+      "countered_by": [
+        "yu-zhong",
+        "suyou",
+        "kadita",
+        "khufra",
+        "atlas",
+        "mathilda"
+      ]
+    },
+    {
+      "id": "suyou",
+      "name": "Suyou",
+      "role": "Jungler",
+      "tier": "S",
+      "power_spike": "mid",
+      "strong_against": [
+        "fanny",
+        "ling",
+        "hayabusa",
+        "joy"
+      ],
+      "countered_by": []
+    },
+    {
+      "id": "yve",
+      "name": "Yve",
+      "role": "Mid",
+      "tier": "S",
+      "power_spike": "late",
+      "strong_against": [
+        "atlas",
+        "khufra",
+        "tigreal",
+        "terizla"
+      ],
+      "countered_by": [
+        "paquito",
+        "fanny",
+        "hayabusa",
+        "valentina",
+        "beatrix",
+        "brody",
+        "granger"
+      ]
+    },
+    {
+      "id": "kadita",
+      "name": "Kadita",
+      "role": "Mid",
+      "tier": "A",
+      "power_spike": "mid",
+      "strong_against": [
+        "ling",
+        "hayabusa",
+        "joy",
+        "fanny"
+      ],
+      "countered_by": [
+        "paquito",
+        "phoveus",
+        "valentina",
+        "beatrix",
+        "brody",
+        "granger"
+      ]
+    },
+    {
+      "id": "valentina",
+      "name": "Valentina",
+      "role": "Mid",
+      "tier": "S",
+      "power_spike": "mid",
+      "strong_against": [
+        "kadita",
+        "pharsa",
+        "yve",
+        "ling"
+      ],
+      "countered_by": [
+        "brody"
+      ]
+    },
+    {
+      "id": "pharsa",
+      "name": "Pharsa",
+      "role": "Mid",
+      "tier": "A",
+      "power_spike": "late",
+      "strong_against": [
+        "atlas",
+        "tigreal",
+        "khufra",
+        "mathilda"
+      ],
+      "countered_by": [
+        "paquito",
+        "arlott",
+        "phoveus",
+        "fanny",
+        "joy",
+        "hayabusa",
+        "valentina",
+        "beatrix",
+        "granger"
+      ]
+    },
+    {
+      "id": "xavier",
+      "name": "Xavier",
+      "role": "Mid",
+      "tier": "B",
+      "power_spike": "late",
+      "strong_against": [
+        "atlas",
+        "khufra",
+        "tigreal",
+        "mathilda"
+      ],
+      "countered_by": [
+        "paquito",
+        "fanny",
+        "hayabusa",
+        "beatrix",
+        "brody",
+        "granger"
+      ]
+    },
+    {
+      "id": "beatrix",
+      "name": "Beatrix",
+      "role": "Gold",
+      "tier": "S",
+      "power_spike": "late",
+      "strong_against": [
+        "yve",
+        "pharsa",
+        "xavier",
+        "kadita"
+      ],
+      "countered_by": [
+        "ling",
+        "tigreal"
+      ]
+    },
+    {
+      "id": "brody",
+      "name": "Brody",
+      "role": "Gold",
+      "tier": "A",
+      "power_spike": "early",
+      "strong_against": [
+        "yve",
+        "xavier",
+        "valentina",
+        "kadita"
+      ],
+      "countered_by": [
+        "arlott",
+        "ling",
+        "joy",
+        "mathilda",
+        "tigreal"
+      ]
+    },
+    {
+      "id": "claude",
+      "name": "Claude",
+      "role": "Gold",
+      "tier": "A",
+      "power_spike": "late",
+      "strong_against": [
+        "atlas",
+        "khufra",
+        "tigreal",
+        "yu-zhong"
+      ],
+      "countered_by": [
+        "fanny",
+        "ling",
+        "mathilda",
+        "tigreal"
+      ]
+    },
+    {
+      "id": "wanwan",
+      "name": "Wanwan",
+      "role": "Gold",
+      "tier": "S",
+      "power_spike": "late",
+      "strong_against": [
+        "khufra",
+        "atlas",
+        "tigreal",
+        "yu-zhong"
+      ],
+      "countered_by": [
+        "joy"
+      ]
+    },
+    {
+      "id": "granger",
+      "name": "Granger",
+      "role": "Gold",
+      "tier": "B",
+      "power_spike": "early",
+      "strong_against": [
+        "yve",
+        "xavier",
+        "kadita",
+        "pharsa"
+      ],
+      "countered_by": [
+        "arlott",
+        "phoveus",
+        "joy",
+        "hayabusa",
+        "tigreal"
+      ]
+    },
+    {
+      "id": "khufra",
+      "name": "Khufra",
+      "role": "Roam",
+      "tier": "S",
+      "power_spike": "early",
+      "strong_against": [
+        "fanny",
+        "ling",
+        "hayabusa",
+        "joy"
+      ],
+      "countered_by": [
+        "yve",
+        "pharsa",
+        "xavier",
+        "claude",
+        "wanwan"
+      ]
+    },
+    {
+      "id": "atlas",
+      "name": "Atlas",
+      "role": "Roam",
+      "tier": "A",
+      "power_spike": "mid",
+      "strong_against": [
+        "fanny",
+        "ling",
+        "hayabusa",
+        "joy"
+      ],
+      "countered_by": [
+        "yve",
+        "pharsa",
+        "xavier",
+        "claude",
+        "wanwan"
+      ]
+    },
+    {
+      "id": "mathilda",
+      "name": "Mathilda",
+      "role": "Roam",
+      "tier": "A",
+      "power_spike": "early",
+      "strong_against": [
+        "fanny",
+        "hayabusa",
+        "claude",
+        "brody"
+      ],
+      "countered_by": [
+        "pharsa",
+        "xavier"
+      ]
+    },
+    {
+      "id": "tigreal",
+      "name": "Tigreal",
+      "role": "Roam",
+      "tier": "B",
+      "power_spike": "mid",
+      "strong_against": [
+        "beatrix",
+        "brody",
+        "claude",
+        "granger"
+      ],
+      "countered_by": [
+        "yve",
+        "pharsa",
+        "xavier",
+        "claude",
+        "wanwan"
+      ]
+    }
+  ]
+}
